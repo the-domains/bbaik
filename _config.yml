@@ -1,0 +1,14 @@
+layout_spectrum: 0.0143339
+typography_spectrum: 0.4021922
+color:
+  lightness: 0.07335582
+  brandStrength: 0.6264756
+  saturation: 0.4983137
+  rhythmicContrast: 0.2858347
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: bbaik
