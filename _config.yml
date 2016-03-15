@@ -1,14 +1,26 @@
 layout_spectrum: 0.0143339
-typography_spectrum: 0.4021922
+name: bbaik
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.07335582
   brandStrength: 0.6264756
-  saturation: 0.4983137
-  rhythmicContrast: 0.2858347
+  lightness: 0
+  saturation: 0.3229342
+  rhythmicContrast: 0.4831366
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: bbaik
+typography_spectrum: 0.4021922
