@@ -1,7 +1,7 @@
 name: bbaik
 favicon: null
-layout_spectrum: 0.0143339
-typography_spectrum: 0.4021922
+layout_spectrum: 0.15974
+typography_spectrum: 0.42245
 collections:
   - index:
       navigable: true
@@ -14,7 +14,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: my personal stuff
 cta:
   domain: null
   bucket: null
@@ -34,8 +33,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6264756
-  lightness: 0.4477234
-  saturation: 0.3229342
-  rhythmicContrast: 0.4831366
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
