@@ -1,40 +1,40 @@
-name: bbaik
-favicon: null
 layout_spectrum: 0.15974
-typography_spectrum: 0.42245
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4375
+  brandStrength: 0.7404255
+  lightness: 0.3125
+  brandColors:
+    - '#141417'
+    - '#88BEFF'
+    - '#5B5B5D'
+    - '#ACA192'
+    - '#D0CEC6'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.42245
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: bbaik
